@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "WEB-INF/classes/servlet-api.jar",
+        "WEB-INF/lib/mysql.jar"
+    ]
+}
